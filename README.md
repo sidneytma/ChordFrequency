@@ -1,3 +1,3 @@
 # ChordFrequency
 
-A mini-project examining the frequency of chords in popular songs from UltimateGuitar.com.
+An exploratory project examining the frequency of chords in popular songs from UltimateGuitar.com.
